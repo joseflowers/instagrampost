@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+    .post{
+        width: 350px;
+        height: 530px;
+        margin: auto;
+        background-color: white;
+    }
+    .post-header{
+        width:100%;
+        display:flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .elipsisicono{
+        margin-right: 5px;
+    }
+    .texto-header{
+        inline-size: 90%;
+        line-height: 1px;
+        
+    }
+    .imagen{
+        width: 100%;
+    }
+    .imagen img{
+        width: 100%;
+        height: 260px;
+    }
+    .botones{
+        font-size: 30px;
+    }
+    .botones i:nth-child(4){
+        float:right;
+        
+    }
